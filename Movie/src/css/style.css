@@ -1,0 +1,21 @@
+body {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+.card{
+    width: 18rem;
+}
+.card-title{
+    color: blue;
+}
+.price{
+    font-weight: bold;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+}
+
